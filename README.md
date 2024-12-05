@@ -19,18 +19,18 @@ CrisisMonitor is a web application designed to track natural disasters and provi
    ```bash  
    daytona create https://github.com/Dishika18/CrisisMonitor-Daytona.git
    ```
-3. **Install Dependencies:**
-   Inside the workspace, ensure all dependencies are installed:
+3. **Install Django:**
+   With the virtual environment activated, install Django:
    ```bash
-   pip install -r requirements.txt
+   pip install django
    ```
 
-4. **Start the Application:**
+5. **Start the Application:**
    Run the server to view the application:
    ```bash
    python manage.py runserver 8080
    ```
-5. **Access the Site:
+6. **Access the Site:
    Open your browser and navigate to ``http://127.0.0.1:8080``.
 
 ---
