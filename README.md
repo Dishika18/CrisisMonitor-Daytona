@@ -1,4 +1,4 @@
-# Sample Django
+# Python/Django
 
 A disaster management web application built using [Django](https://www.djangoproject.com/) (Python)
 
